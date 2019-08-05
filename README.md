@@ -1,2 +1,3 @@
 # cautious-palm-tree
-just another test repository
+
+Testing the branch creation and commit changes.
